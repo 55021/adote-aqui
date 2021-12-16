@@ -2,7 +2,7 @@
 
 ### Descrição da tarefa ###
 
-A *ONG Adote Aqui*, que trabalha com *adoção de animais*, entrou em contato com a Resilia para desenvolver uma *página web para adoção de pets*. Ao longo dessa semana vocês serão responsáveis pela vitrine dessa aplicação! Começaremos pelo menu de navegação do site.
+A **ONG Adote Aqui**, que trabalha com **adoção de animais**, entrou em contato com a Resilia para desenvolver uma **página web para adoção de pets**. Ao longo dessa semana vocês serão responsáveis pela vitrine dessa aplicação! Começaremos pelo menu de navegação do site.
 
 Com base em seus conhecimentos de HTML, CSS e flexbox:
 
@@ -21,3 +21,11 @@ Implemente o rodapé da página "Adote Aqui". Ele deve:
 
 * Conter a frase: Todos os direitos reservados
 * Estar na mesma cor que o cabeçalho
+
+### Layout Desktop ###
+
+![image](https://raw.githubusercontent.com/55021/adote-aqui/master/desktop-adote-screenshot.png)
+
+### Layout Mobile ###
+
+![image](https://raw.githubusercontent.com/55021/adote-aqui/master/mobile-adote-screenshot.png)
