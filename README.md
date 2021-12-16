@@ -1,4 +1,4 @@
-## ResiliaPet ##
+## ResiliaPet :cat: ##
 
 ### Descrição da tarefa ###
 
