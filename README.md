@@ -9,7 +9,7 @@ Com base em seus conhecimentos de HTML, CSS e flexbox:
 * Crie uma nova pasta chamada adote-aqui que conterá os arquivos do projeto
 * Crie os arquivos HTML e CSS necessários
 
-Media Query na AdoteAqui
+#### Media Query na AdoteAqui ####
 
 Utilizando como base a barra de navegação desenvolvida para a Adote Aqui:
 
@@ -17,7 +17,14 @@ Utilizando como base a barra de navegação desenvolvida para a Adote Aqui:
     * Esconde o Nome/Logo da Adote Aqui (lembre-se da propriedade de display)
     * Disponibiliza em colunas os demais campos da barra de navegação
 
-Implemente o rodapé da página "Adote Aqui". Ele deve:
+#### Pseudo classes ####
+
+Utilizando como base o projeto "Adote Aqui", implemente dentro do cabeçalho da página:
+
+* O aumento da logo/nome "Adote Aqui" ao passar com o mouse por cima
+* A mudança de cor na fonte dos demais elementos do cabeçalho
+
+#### Implemente o rodapé da página "Adote Aqui". Ele deve: ####
 
 * Conter a frase: Todos os direitos reservados
 * Estar na mesma cor que o cabeçalho
